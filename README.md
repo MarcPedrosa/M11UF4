@@ -1,5 +1,6 @@
 # M11UF4
  Projecte dataset
+ 
 Lo primero que hemos hecho es practicar borrando los campos que no nos interesaban y solo dejando los que nos importaban para hacer los graficos.
 Luego empezamos con el primer grafico que hemos hecho, es el de los 10 artistas que tienen mas canciones en general.
 En la parte inferior nos aparecen los nombres de los artistas y en el lateral izquierdo podemos opserbar la cantidad de canciones que tienen.
